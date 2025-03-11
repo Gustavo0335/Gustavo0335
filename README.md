@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Bem-vindo ao meu GitHub!
-<span class="typewriter">## Meu nome é Luiz Gustavo Gomes</span>
+
+💬 Meu nome é Luiz Gustavo Gomes
 - 🔭 Sobre mim:
 
 - 🚀 Desenvolvedor FullStack
