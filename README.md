@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá meu nome é Luiz Gustavo Gomes 
+- 🔭 Sobre mim:
+
+- 🚀 Desenvolvedor FullStack
+- ⚡ Aluno de Sistemas de Informação
+- 🔥 Experiencia de 2 anos no mercado de T.I
+
 <div align="center">
   <a href="https://github.com/Gustavo0335">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo0335&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
