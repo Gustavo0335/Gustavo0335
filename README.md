@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá meu nome é Luiz Gustavo Gomes 
+# Bem-vindo ao meu GitHub!
+<span class="typewriter">## Meu nome é Luiz Gustavo Gomes</span>
 - 🔭 Sobre mim:
 
 - 🚀 Desenvolvedor FullStack
